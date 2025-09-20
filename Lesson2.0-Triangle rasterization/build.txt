@@ -1,0 +1,3 @@
+cmake .. -G "Visual Studio 17 2022"
+
+之后直接在 VS 中打开 build/tinyrenderer.sln，然后点击生成。
