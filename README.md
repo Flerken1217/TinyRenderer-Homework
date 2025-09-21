@@ -10,5 +10,5 @@
 pic_result文件夹为将tga文件转换为png文件之后的结果，已经按照课程顺序整理好，参照本项目的朋友们可以比对。
 
 ## 项目结果展示
-![当前项目结果](pic_result/Lesson10/2.png)
 ![当前项目结果](pic_result/Lesson10/3.png)
+![当前项目结果](pic_result/Lesson10/2.png)
